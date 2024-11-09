@@ -1,0 +1,5 @@
+git init
+git add C:\Users\Nikita\Documents\PyProjects\tgame\tgame
+git commit -m "New library for python"
+git remote add origin https://github.com/Nikita-coder2012/tgame.git
+git push -u origin master
